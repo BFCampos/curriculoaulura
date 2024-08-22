@@ -1,0 +1,2 @@
+# curriculoaulura
+curriculo
